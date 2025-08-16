@@ -1,4 +1,4 @@
-# 🎲 Dicee – Dice Game
+# 🎲 Dice Game
 
 ## 📌 Project Overview
 
