@@ -3,19 +3,19 @@
 ## SVGs:
 
 ### Apple Logo:
-<img src="assets/apple.svg" width="30" alt="Apple Logo">
+### <img src="assets/apple.svg" width="30" alt="Apple Logo">
 
 ### Google Play Logo:
-<img src="assets/google-play.svg" width="30" alt="Google Play Logo">
+### <img src="assets/google-play.svg" width="30" alt="Google Play Logo">
 
 ### Checkmark:
-<img src="assets/checkmark.svg" width="30" alt="Checkmark">
+### <img src="assets/checkmark.svg" width="30" alt="Checkmark">
 
 ### Hat:
-<img src="assets/hat.svg" width="30" alt="Graduation Hat">
+### <img src="assets/hat.svg" width="30" alt="Graduation Hat">
 
 ### Heart:
-<img src="assets/heart.svg" width="30" alt="Heart Icon">
+### <img src="assets/heart.svg" width="30" alt="Heart Icon">
 
 ---
 
